@@ -1,10 +1,10 @@
 {
-    "title": "Stackbit Exto Theme",
+    "title": "Oscar Barajas Tavares",
     "path_prefix": "/",
-    "color_scheme": "light",
+    "color_scheme": "dark",
     "accent_color": "pink",
     "header": {
-        "title": "gndx",
+        "title": "GNDX",
         "has_nav": true,
         "nav_links": [
             {
@@ -75,3 +75,4 @@
     },
     "domain": "https://oscarbarajasco-a1134.netlify.app"
 }
+
