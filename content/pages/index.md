@@ -5,9 +5,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hola, Soy Oscar Barajas Tavares'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: "Foundation Layer at @platzi - Microsoft MVP - Lead at Developer Circles from Facebook, I teach React & Svelte - #Twitch Partner - #EStreamerCoders - \U0001F1F2\U0001F1FD\U0001F1E8\U0001F1F4\n"
     actions:
       - label: Let's talk
         url: /contact
